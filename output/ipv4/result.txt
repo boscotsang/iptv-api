@@ -1,16 +1,13 @@
 🕘️更新时间,#genre#
-2026-01-04 06:11:16,http://sun135790.x3322.net:9901/tsfile/live/16011_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-01-04 18:11:27,http://tvlist.top/jd/index.php?id=cctv5p&qt=183.224.122.114:8014
 
 📺央视频道,#genre#
-CCTV-4,http://sun135790.x3322.net:9901/tsfile/live/16011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-4,http://sun135790.x3322.net:9901/tsfile/live/16011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://tvlist.top/jd/index.php?id=cctv5p&qt=183.224.122.114:8014
 CCTV-5,http://tvlist.top/jd/index.php?id=cctv5p&qt=183.224.122.114:8014
 CCTV-6,http://sun135790.x3322.net:9901/tsfile/live/16013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6,http://111.221.137.234:44330/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-7,http://tvlist.top/jd/index.php?id=cctv7&qt=183.224.122.114:8014
 CCTV-7,http://sun135790.x3322.net:9901/tsfile/live/16014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-8,http://sun135790.x3322.net:9901/tsfile/live/16015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8,http://111.221.137.234:44330/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-8,http://111.221.137.234:44330/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-9,http://tvlist.top/jd/index.php?id=cctv9&qt=183.224.122.114:8014
 CCTV-9,http://111.221.137.234:44330/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -36,6 +33,7 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 风云剧场,http://yp.qqqtv.top/1/api.php?id=CCTV-%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA&auth=666858
 怀旧剧场,http://171.83.103.119:9999/rtp/239.69.1.89:10174
 风云足球,http://27.41.245.32:801/hls/906/index.m3u8
+风云足球,http://27.41.245.32:801/hls/906/index.m3u8
 电视指南,http://171.83.103.119:9999/rtp/239.69.1.87:10162
 世界地理,http://yp.qqqtv.top/1/api.php?id=CCTV-%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86&auth=666858
 兵器科技,http://171.83.103.119:9999/rtp/239.69.1.79:10114
@@ -59,20 +57,20 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 广西卫视,http://39.152.103.17:8089/tsfile/live/1077_1.m3u8
 贵州卫视,http://39.152.103.17:8089/tsfile/live/1041_1.m3u8
 海南卫视,http://yp.qqqtv.top/1/api.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86HD&auth=666858
-海南卫视,http://39.152.103.17:8089/tsfile/live/1046_1.m3u8
+海南卫视,http://111.221.137.234:44330/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
 河北卫视,http://tvlist.top/jd/index.php?id=hebeiws&qt=183.224.122.114:8014
 河北卫视,http://39.152.103.17:8089/tsfile/live/1079_1.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-江苏卫视,http://39.152.103.17:8089/tsfile/live/1038_1.m3u8
 江苏卫视,http://27.41.245.32:801/hls/42/index.m3u8
+江苏卫视,http://39.152.103.17:8089/tsfile/live/1038_1.m3u8
 江西卫视,http://39.152.103.17:8089/tsfile/live/1078_1.m3u8
-江西卫视,http://sun135790.x3322.net:9901/tsfile/live/16044_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://36.36.200.198:44330/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
 辽宁卫视,http://yp.qqqtv.top/1/api.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86HD&auth=666858
 辽宁卫视,http://39.152.103.17:8089/tsfile/live/1024_1.m3u8
 山东卫视,http://111.221.137.234:44330/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
-四川卫视,http://39.152.103.17:8089/tsfile/live/1044_1.m3u8
-四川卫视,http://sun135790.x3322.net:9901/tsfile/live/16040_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://btjg.net:809/hls/48/index.m3u8
+四川卫视,http://btjg.net:809/hls/48/index.m3u8
 深圳卫视,http://yp.qqqtv.top/1/api.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86HD&auth=666858
 深圳卫视,http://tvlist.top/jd/index.php?id=szws&qt=183.224.122.114:8014
 天津卫视,http://39.152.103.17:8089/tsfile/live/1035_1.m3u8
@@ -109,6 +107,8 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
 
 ☘️上海频道,#genre#
+全纪实,http://139.196.151.191/rtp/239.45.3.135:5140
+全纪实,http://139.196.151.191/rtp/239.45.3.135:5140
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 法治天地,http://171.83.103.119:9999/rtp/239.69.2.10:11214
@@ -121,8 +121,8 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 璧山综合,http://222.179.42.129:8181/hls1.m3u8
 铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
 铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
-重庆汽摩,http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
-重庆汽摩,http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
+重庆汽摩,http://183.230.184.51:65500/tntv1.m3u8?zzhongqd
+重庆汽摩,http://183.230.184.51:65500/tntv1.m3u8?zzhongqd
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8
 潼南综合,http://183.230.184.51:65500/tntv1.m3u8?zzhongqd
@@ -280,6 +280,8 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 河北都市,https://radio.pull.hebtv.com/live/hebnczx.m3u8
 河北农民,https://radio.pull.hebtv.com/live/hebnczx.m3u8
 大厂一套,http://yp.qqqtv.top/1/api.php?id=%E5%A4%A7%E5%8E%82%E4%B8%80%E5%A5%97&auth=666858
+衡山,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
+衡山,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
 
 ☘️贵州频道,#genre#
 松桃新闻,http://yp.qqqtv.top/1/api.php?id=%E6%9D%BE%E6%A1%83%E6%96%B0%E9%97%BB&auth=666858
@@ -302,6 +304,8 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 秦安综合,http://play.kankanlive.com/live/1683944827526991.m3u8
 西峰综合,http://play.kankanlive.com/live/1683944827526991.m3u8
+金昌综合,http://stream4.liveyun.hoge.cn/ch02/sd/live.m3u8
+金昌综合,http://stream4.liveyun.hoge.cn/ch02/sd/live.m3u8
 靖远综合,http://play.kankanlive.com/live/1692005762394912.m3u8
 
 ☘️新疆频道,#genre#
@@ -313,8 +317,8 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 兵团五师双河新闻综合,http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?fbl=
 奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8
 奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8
-玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8
-玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8
+玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
+玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
 可克达拉综合,rtmp://liveout.btzx.com.cn/62ds9e/4nxdih
 可克达拉综合,http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
 奎屯汉语综合,http://yp.qqqtv.top/1/api.php?id=%E5%A5%8E%E5%B1%AF%E6%B1%89%E8%AF%AD%E7%BB%BC%E5%90%88&auth=666858
@@ -323,10 +327,17 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 
 ☘️山东频道,#genre#
 山东文旅,http://221.2.148.205:8154/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-山东文旅,http://58.57.40.22:9901/tsfile/live/1023_1.m3u8
+山东文旅,http://221.2.148.205:8154/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 青州综合,rtmp://sdqz.chinashadt.com:2036/live/stream:1.stream
 东营综合,rtmp://stream.hhek.cn:9936/live/xwzh_sd?shandd
 东营综合,rtmp://stream.hhek.cn:9936/live/xwzh_sd?shandd
+菏泽一套新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
+菏泽三套影视,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
+菏泽影,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8?shandd
+菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd
+菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
+菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd
+菏泽经济生活,http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
 
 ☘️山西频道,#genre#
 万荣综合,http://60.222.246.220:19433/hls1.m3u8
@@ -484,8 +495,6 @@ CCTV-5,http://sun135790.x3322.net:9901/tsfile/live/16025_1.m3u8?key=txiptv&playl
 新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
-金鹰卡通,http://101.66.199.34:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-金鹰卡通,http://101.66.199.34:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
