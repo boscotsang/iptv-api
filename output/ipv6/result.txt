@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-31 06:16:27,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-03-31 18:25:51,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -591,6 +591,7 @@ CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 福建综合,https://stream1.freetv.fun/fu-jian-zong-he-1.m3u8
 福建综合,https://stream1.freetv.fun/fu-jian-zong-he-2.m3u8
 福建公共,https://stream1.freetv.fun/fu-jian-gong-gong-4.ctv
+福建公共,https://t.freetv.fun/live/fu-jian-gong-gong-1.m3u8
 福建旅游,https://stream1.freetv.fun/fu-jian-lu-you-6.m3u8
 福建旅游,https://t.freetv.fun/live/fu-jian-lu-you.m3u8
 福建经视,https://stream1.freetv.fun/fu-jian-jing-ji-4.m3u8
