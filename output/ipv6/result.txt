@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-21 06:51:16,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-07-21 19:48:52,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -218,6 +218,7 @@ CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 浙江留学,https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 浙江民生休闲,http://zhfivel02.cztv.com/channel06/1080p.m3u8?auth_key=2524708799-0-0-59c4fe94512c59a90316fbf17ae2fbef
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江数码时代,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 浙江数码时代,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8\r\n
 浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江教科影视,http://zwebl02.cztv.com/live/channel041080P.m3u8?auth_key=2524708799-0-0-f195b808217db133bfd648edc01e91fa
@@ -270,6 +271,7 @@ CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
 文成新闻综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
 数码时代,http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
+数码时代,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 开化新闻综合,http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8?zzhed
 开化新闻综合,https://stream1.freetv.fun/kai-hua-xin-wen-zong-he-1.m3u8
 开化国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8zzhed
@@ -613,6 +615,7 @@ CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 
 ☘️河南频道,#genre#
 梨园,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225581/2/index.m3u8
+梨园,https://iptv.catvod.com/migu?id=961930369&token=0490ac4a225892f11fdf8b71d6fb1631
 临颍综合,http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 义马新闻综合,http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 义马新闻综合,http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8
