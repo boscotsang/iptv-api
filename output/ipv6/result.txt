@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-18 07:55:45,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-09-18 22:05:11,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1160,6 +1160,7 @@ CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=4e8d5766579c6bef231
 国外频道,#genre#
 NHK,https://live.catvod.com/live.php?id=NHK
 TBS,https://hls-gateway.vpstv.net/streams/709219.m3u8
+NTV,https://sunplay-cdn.bitratelabs.com/live/local-channel/ntv-e3d4300b49c8c901e9339174215d7580/index.m3u8
 BBC,https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
 BBC,https://hls-gateway.vpstv.net/streams/709168.m3u8
 CNN,https://jmp2.uk/sam-GBBD8000016N.m3u8
