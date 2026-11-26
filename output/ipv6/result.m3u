@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/boscotsang/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-11-26 12:00:46
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-11-27 03:29:53
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -2183,6 +2183,8 @@ https://jmp2.uk/sam-GBBD8000016N.m3u8
 https://live.catvod.com/live.php?id=cnn_twn
 #EXTINF:-1 tvg-name="ABC" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ABC.png" group-title="国外频道",ABC
 https://aegis-cloudfront-1.tubi.video/e739361e-fa12-4cac-92f3-e0dbf332cd88/playlist.m3u8
+#EXTINF:-1 tvg-name="ABC" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ABC.png" group-title="国外频道",ABC
+https://amg01942-amg01942c3-stirr-us-10196.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="CBS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CBS.png" group-title="国外频道",CBS
 https://live.catvod.com/live.php?id=cbshd_glo
 #EXTINF:-1 tvg-name="CBS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CBS.png" group-title="国外频道",CBS
